@@ -7,7 +7,7 @@ App developer & Web Designer
 I starting freelancing in 2019 as web developer and build custom PWA for small-medium italian company. In July 2022, i quit from the main company i was working and start new adventure in the fields of Application Development in Flutter
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [www.erikwski.com](http:///www.erikwski.com/)
+* 🖥️  See my portfolio at [www.erikwski.com]([http:///www.erikwski.com/](https://personal-landing-five.vercel.app/))
 * ✉️  You can contact me at [ferrarierik.work@gmail.com](mailto:ferrarierik.work@gmail.com)
 * 🧠  I'm learning Flutter & React
 * 🤝  I'm open to collaborating on everything will help increase my programming skills/personal career

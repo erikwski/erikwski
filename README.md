@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 App developer & Web Designer
 ----------------------------
 
-I starting freelancing in 2019 as web developer and build custom PWA for small-medium italian company. In July 2022, i quit from the main company i was working and start new adventure in the fields of Application Development in Flutter
+I starting freelancing in 2019 as web developer and build custom PWA for small-medium italian company. In July 2022, i quit from the main company i was working and start new adventure in the Angular world that i discover during a project.
 
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [My Website](https://personal-landing-five.vercel.app/)

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ferrari Erik</h1>
 <h3 align="center">Web designer based in Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikwski" alt="erikwski" /></a> </p>
-
 - 🔭 I’m currently working for [Datacolor](https://www.datacolor.com/)
 
 - 🌱 I’m currently learning **Flutter**
